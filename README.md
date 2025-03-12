@@ -87,6 +87,9 @@ The app will run on `http://127.0.0.1:5000/`
 ## Contribution
 Feel free to fork the repository and submit a pull request if you would like to contribute!
 
+## Contact
+For any issues or feature requests, please open an issue on the repository.
+
 
 
 
